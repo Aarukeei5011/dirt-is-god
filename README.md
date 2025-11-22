@@ -4,6 +4,7 @@ Dirt is GOD.
 I used this website:
 [https://crafting.thedestruc7i0n.ca/](https://crafting.thedestruc7i0n.ca/)
 
+All items and blocks can be crafted from dirt.
 This is a datapack.
 It also works with vanilla Minecraft.
 
